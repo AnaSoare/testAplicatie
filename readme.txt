@@ -1,5 +1,6 @@
 ---------------- CONFIGURARE ------------------------
 1.Fisierele din root trebuie sa aiba urmatoarea structura:
+- assets
 - framework
 - protected
 - public

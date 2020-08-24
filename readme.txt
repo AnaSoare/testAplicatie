@@ -26,3 +26,6 @@
 3. Cont de test aplicatie(rol manager)
 User: ana_maria.sora@yahoo.com
 Password: test
+
+
+4. Php version: 5.5 - 7.1
